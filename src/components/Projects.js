@@ -29,7 +29,7 @@ class Projects extends React.Component {
         techStack: "HTML/CSS/JS",
         link: "https://github.com/hnav98/im-property-management",
         open: "https://impropertymanagement.com/",
-        image: "/assets/improperty.png"
+        image: "assets/improperty.png"
       },
       Truth: {
         title: "truth",
@@ -38,7 +38,7 @@ class Projects extends React.Component {
         techStack: "JAVASCRIPT (THREE.JS)",
         link: "https://github.com/gazijarin/truth",
         
-        image: "/assets/truth.png"
+        image: "assets/truth.png"
       },
       "Tall Tales": {
         title: "tall tales",
@@ -47,7 +47,7 @@ class Projects extends React.Component {
         techStack: "NODE.JS (SOCKET.IO), REACT.JS, MONGODB",
         link: "https://github.com/gazijarin/TallTales",
         
-        image: "/assets/talltales.png"
+        image: "assets/talltales.png"
       },
       Portfolio: {
         title: "portfolio.js",
@@ -56,7 +56,7 @@ class Projects extends React.Component {
         techStack: "NODE.JS (EXPRESS.JS)",
         link: "https://github.com/gazijarin/Portfolio.js",
         open: "https://afternoon-ocean-92382.herokuapp.com/",
-        image: "/assets/portfolio.png"
+        image: "assets/portfolio.png"
       }
     };
     const projects = {
