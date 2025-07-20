@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Hassan-main/static/css/main.30b82540.css",
-    "main.js": "/Hassan-main/static/js/main.fd829e06.js",
+    "main.js": "/Hassan-main/static/js/main.8436cb8c.js",
     "index.html": "/Hassan-main/index.html",
     "main.30b82540.css.map": "/Hassan-main/static/css/main.30b82540.css.map",
-    "main.fd829e06.js.map": "/Hassan-main/static/js/main.fd829e06.js.map"
+    "main.8436cb8c.js.map": "/Hassan-main/static/js/main.8436cb8c.js.map"
   },
   "entrypoints": [
     "static/css/main.30b82540.css",
-    "static/js/main.fd829e06.js"
+    "static/js/main.8436cb8c.js"
   ]
 }
