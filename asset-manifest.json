@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Hassan-main/static/css/main.30b82540.css",
+    "main.js": "/Hassan-main/static/js/main.48b26abd.js",
+    "index.html": "/Hassan-main/index.html",
+    "main.30b82540.css.map": "/Hassan-main/static/css/main.30b82540.css.map",
+    "main.48b26abd.js.map": "/Hassan-main/static/js/main.48b26abd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.30b82540.css",
+    "static/js/main.48b26abd.js"
+  ]
+}
