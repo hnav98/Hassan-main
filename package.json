@@ -1,5 +1,5 @@
 {
-  "homepage":"https://hnav98.github.io/Hassan-main",
+  "homepage": "https://hnav98.github.io/Hassan-main",
   "name": "gazi-jarin",
   "version": "0.1.0",
   "private": true,
@@ -30,7 +30,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -b master -d build"
+    "deploy": "gh-pages -b gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
