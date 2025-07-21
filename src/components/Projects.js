@@ -66,12 +66,11 @@ class Projects extends React.Component {
         techStack: "Python",
         link: "https://github.com/hnav98/guessing-game"
       },
-      "Adam A.I.": {
+      "Excel Comment Extractor": {
         desc:
-          "A self-learning A.I. that learns to traverse through a complex maze using the genetic algorithm.",
-        techStack: "Javascript, HTML / CSS",
-        link: "https://github.com/gazijarin/adamai",
-        open: "https://gazijarin.github.io/AdamAI/"
+          "This Python script extracts all cell comments from .xlsx Excel files in a specified folder. It collects the file name, sheet name, cell reference, and the comment content, and optionally prints or saves them as CSV.",
+        techStack: "Python",
+        link: "https://github.com/hnav98/excel-comment-extractor",
       },
       "Distributed Logging and Monitoring System": {
         desc:
