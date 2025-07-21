@@ -60,12 +60,11 @@ class Projects extends React.Component {
       }
     };
     const projects = {
-      "TDSB Homework Management Interface": {
+      "Guessing Game": {
         desc:
-          "An application created for Toronto District School Board, with a Flask back-end and a Vue front-end.",
-        techStack: "Python (Flask), Vue.js, Bootstrap, SQL",
-        link: "https://github.com/gazijarin/TDSBHomeworkManagement",
-        open: "https://tdsb-app.herokuapp.com/"
+          "A simple terminal-based guessing game built in Python. The game randomly chooses a secret word, and the player has a limited number of guesses to figure it out.",
+        techStack: "Python",
+        link: "https://github.com/hnav98/guessing-game"
       },
       "Adam A.I.": {
         desc:
