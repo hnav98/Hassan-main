@@ -22,6 +22,15 @@ class Projects extends React.Component {
   }
   render() {
     const spotlightProjects = {
+      Mazemind: {
+        title: "mazemind",
+        desc:
+          "A simulation-based AI game where a population of agents learn to reach a goal through natural selection and mutation.",
+        techStack: "JAVASCRIPT",
+        link: "https://github.com/hnav98/mazemind-ai",
+        open:"https://hnav98.github.io/mazemind-ai",
+        image: "assets/mazemind.png"
+      },
       "Im Property Management": {
         title: "property management",
         desc:
@@ -30,15 +39,6 @@ class Projects extends React.Component {
         link: "https://github.com/hnav98/im-property-management",
         open: "https://impropertymanagement.com/",
         image: "assets/improperty.png"
-      },
-      Truth: {
-        title: "truth",
-        desc:
-          "A three.js simulation of the planet system revolving around a monolith.",
-        techStack: "JAVASCRIPT (THREE.JS)",
-        link: "https://github.com/gazijarin/truth",
-        
-        image: "assets/truth.png"
       },
       "Tall Tales": {
         title: "tall tales",
