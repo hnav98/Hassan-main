@@ -39,24 +39,6 @@ class Projects extends React.Component {
         link: "https://github.com/hnav98/im-property-management",
         open: "https://impropertymanagement.com/",
         image: "assets/improperty.png"
-      },
-      "Tall Tales": {
-        title: "tall tales",
-        desc:
-          "A multi-player story-telling web game for 3-5 players. Its usage of sockets to allow for concurrent gameplay, connecting friends across the internet.",
-        techStack: "NODE.JS (SOCKET.IO), REACT.JS, MONGODB",
-        link: "https://github.com/gazijarin/TallTales",
-        
-        image: "assets/talltales.png"
-      },
-      Portfolio: {
-        title: "portfolio.js",
-        desc:
-          "A small JS library that helps with clear and succinct data presentation.",
-        techStack: "NODE.JS (EXPRESS.JS)",
-        link: "https://github.com/gazijarin/Portfolio.js",
-        open: "https://afternoon-ocean-92382.herokuapp.com/",
-        image: "assets/portfolio.png"
       }
     };
     const projects = {
@@ -78,27 +60,6 @@ class Projects extends React.Component {
         techStack: "Python, Selenium",
         link:
           "https://github.com/hnav98/invoice-exporter"
-      },
-      "Odin Bot": {
-        desc:
-          "A Telegram bot that helps you excel on your daily tasks through Node NLP.",
-        techStack: "Javascript, Node.js, Natural NLP, Telegram API",
-        link: "https://github.com/gazijarin/OdinBot",
-        open: ""
-      },
-      "Game Centre": {
-        desc:
-          "An Android app consisting of three board games, including multiplayer, autosave, user authentication, etc.",
-        techStack: "Java, Android Studio",
-        link: "https://github.com/gazijarin/gamecentre",
-        open: ""
-      },
-      "Minimax Stonehenge": {
-        desc:
-          "Two-player, zero-sum game with a strategic Minimax artificial intelligence.",
-        techStack: "Python",
-        link: "https://github.com/gazijarin/stonehenge",
-        open: ""
       }
     };
 
