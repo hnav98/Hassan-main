@@ -72,12 +72,12 @@ class Projects extends React.Component {
         techStack: "Python",
         link: "https://github.com/hnav98/excel-comment-extractor",
       },
-      "Distributed Logging and Monitoring System": {
+      "Invoice Exporter": {
         desc:
-          "A system that establishes an ORM connection to a Prisma client in order to communicate logs from microservices.",
-        techStack: "Node.js (Express.js), React.js, PostgreSQL",
+          "A Python-based automation tool to download invoices from a Sonar instance using Selenium. It reads invoice IDs from a CSV file and automatically downloads each invoice as a PDF to a specified folder.",
+        techStack: "Python, Selenium",
         link:
-          "https://github.com/gazijarin/Distributed-Logging-and-Monitoring-System"
+          "https://github.com/hnav98/invoice-exporter"
       },
       "Odin Bot": {
         desc:
